@@ -1,2 +1,2 @@
-# git-exercises
+Learning Git
 
